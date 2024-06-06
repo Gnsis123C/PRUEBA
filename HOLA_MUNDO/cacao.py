@@ -20,7 +20,7 @@ for contorno in contornos:
 # Mostrar la imagen con los contornos dibujados
 cv2.imshow('Imagen con contornos', imagen)
 cv2.waitKey(0)
-
+print("esto es lo que acabé de subir ")
 # Clasificar los contornos para identificar plagas o enfermedades
 # (Esta parte del código se debe implementar utilizando un modelo de aprendizaje automático entrenado para reconocer plagas y enfermedades del cacao)
 
